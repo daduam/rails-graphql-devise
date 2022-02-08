@@ -46,3 +46,5 @@ group :development do
 end
 
 gem "devise", "~> 4.8.1"
+
+gem "graphql", "~> 1.13.8"

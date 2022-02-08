@@ -88,6 +88,7 @@ GEM
       i18n (>= 1.6, < 2)
     globalid (1.0.0)
       activesupport (>= 5.0)
+    graphql (1.13.8)
     i18n (1.9.1)
       concurrent-ruby (~> 1.0)
     importmap-rails (1.0.2)
@@ -205,6 +206,7 @@ DEPENDENCIES
   debug
   devise (~> 4.8.1)
   faker (~> 2.19.0)
+  graphql (~> 1.13.8)
   importmap-rails
   jbuilder
   pg (~> 1.1)
